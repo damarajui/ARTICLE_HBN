@@ -31,13 +31,13 @@ export default function CTA() {
         <h2 className="cta-headline">🚨 THE GOV IS A MESS—HERE'S HOW YOU CAN STILL GET HELP 🚨</h2>
         <div className="cta-dashed-line"></div>
         <p className="cta-description">
-          Most Americans don't realize: The <em>Affordable Care Act (ACA)</em>
+          Most Americans don't realize: The <em>Affordable Care Act (ACA) </em>
           offers <strong>up to $6,400 in Health Insurance Tax Credits</strong>—and you could be
-          <strong>eligible right now</strong>!
+          <strong> eligible right now</strong>!
         </p>
         <p className="cta-description">
           The problem isn't a lack of funding—it's that
-          <strong>too many people don't know about these benefits.</strong> This
+          <strong> too many people don't know about these benefits.</strong> This
           <em>fully-funded, government-backed program</em> is designed to lower your monthly living expenses by covering
           health insurance costs—and it even gets better.
         </p>
