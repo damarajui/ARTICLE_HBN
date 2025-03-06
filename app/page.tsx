@@ -14,67 +14,65 @@ export default function Home() {
       <AuthorInfo />
       <ArticleSection
         number={1}
-        title="The Shocking Decision: FEMA Funds Redirected to NYC Migrant Housing"
+        title="The Shocking Decision: Inflated Costs for Basic Supplies"
         content={`
-          <p><strong>What's Really Happening:</strong> In a controversial move, disaster relief funds were initially 
-          funneled into New York City hotels to house migrants instead of being reserved for communities hit by natural 
-          disasters. This decision, quickly brought to light by DOGE, has been widely criticized as a misuse of federal 
-          resources that were meant to help Americans in times of crisis.</p>
+          <p><strong>What's Really Happening:</strong> An audit has laid bare the Defense Department's shocking decision 
+          to overpay Boeing by 8,000% for soap dispensers—an expenditure that totaled $149,072. While soap dispensers are 
+          a basic necessity, this astronomical markup highlights how government contracts can be riddled with inefficiencies 
+          and mismanagement.</p>
 
-              <p><strong>The Human Cost:</strong> Taxpayers are left reeling as funds intended for emergency response and 
-              community rebuilding were diverted to support policies that many feel have nothing to do with protecting lives 
-              during natural disasters. For families who have faced the devastation of hurricanes, wildfires, or floods, 
-              this misallocation is a painful reminder that government priorities are often skewed toward political or social 
-              agendas rather than the urgent needs of everyday Americans.</p>
+          <p><strong>The Human Cost:</strong> For taxpayers, every dollar wasted on inflated costs for everyday items means 
+          fewer resources available for critical services. When government spending spirals out of control on non-essential 
+          items, it undermines public trust and leaves communities questioning where their money is really going.</p>
 
-          <p><strong>Why It Matters to You:</strong> When funds meant for disaster relief are misdirected, it directly 
-          impacts the ability to help those suffering from real emergencies. It raises a critical question: if the 
-          government can easily divert aid meant for protecting lives, where does that leave you and your community 
-          when disaster strikes?</p>
+          <p><strong>Why It Matters to You:</strong> When public funds are mismanaged at such a high level, it indirectly
+          burdens you by inflating overall costs and reducing the quality of services meant to protect and serve the American
+          people. It's a stark reminder that government priorities don't always align with the needs of ordinary citizens.</p>
         `}
-        imageSrc="/masonwarnerr_A_conceptual_illustration_showing_a_cracked_U.S._550e31bd-2eef-40f2-99da-bd91ebf35b6d_2.png"
-        imageAlt="Conceptual illustration showing a cracked U.S. flag symbolizing division in American priorities"
+        imageSrc="/pig.png"
+        imageAlt="Cracked piggy bank with government seal, symbolizing wasteful government spending"
         useRegularImg={true}
       />
       <ArticleSection
         number={2}
-        title="The Disturbing Reality: Prioritizing Political Agendas Over American Safety"
+        title="The Disturbing Reality: Wasteful Spending Inflates Costs for Everyone"
         content={`
-          <p><strong>A Question of Values:</strong> The decision to redirect FEMA funds signals a troubling trend of 
-          prioritizing politically charged initiatives over the immediate needs of citizens. While government officials 
-          may claim that every allocation is justified, the reality is that these choices often leave vulnerable 
-          communities without the essential support they need in times of crisis.</p>
+          <p><strong>A Question of Accountability:</strong> The massive overcharge for soap dispensers is emblematic of a 
+          broader issue: a system where cost-cutting measures are abandoned in favor of wasteful spending. When contracts 
+          are mismanaged and overspending is tolerated, it creates a ripple effect that ultimately impacts the services 
+          and support available to the public.</p>
 
-          <p><strong>The Ripple Effect:</strong> Mismanagement of funds not only jeopardizes emergency response efforts 
-          but also erodes public trust. When taxpayers see their hard-earned money diverted to causes that appear 
-          disconnected from their own struggles, it fuels widespread frustration and a sense of betrayal. As funds for 
-          disaster relief dwindle, the gap between government promises and real-world action widens.</p>
+          <p><strong>The Ripple Effect:</strong> Every instance of government waste, whether it's overpaying for basic 
+          supplies or misallocating funds for critical programs, erodes confidence in our public institutions. The 
+          consequences of such inefficiencies are felt in higher taxes and diminished resources for essential services 
+          like disaster relief, education, and healthcare.</p>
 
-          <p><strong>Your Safety Is Non-Negotiable:</strong> In a system where every misstep can have life-altering 
-          consequences, relying on government promises alone is a dangerous gamble. It's imperative to take control 
-          of your own well-being—even when government priorities seem to falter.</p>
+          <p><strong>Your Financial Well-Being Is Non-Negotiable:</strong> In an environment where government mismanagement 
+          is all too common, relying solely on public funds for your well-being is a risky gamble. It's crucial to seek 
+          stability and protection in areas that truly work for you.</p>
         `}
       />
       <ArticleSection
         number={3}
         title="The One Beacon of Hope: Affordable Care Act – A Policy That Puts You First"
         content={`
-          <p><strong>Why ACA Stands Out:</strong> Amid widespread governmental mismanagement, the Affordable Care Act 
-          remains one of the few initiatives that consistently prioritizes the health and security of everyday Americans. 
-          While decisions like the FEMA fund misdirection reveal a government fixated on political maneuvering, ACA is 
-          built on the promise of providing comprehensive, affordable health coverage to all citizens.</p>
+          <p><strong>Why ACA Stands Out:</strong> Amid a series of government missteps, the Affordable Care Act remains 
+          one of the few initiatives that consistently prioritizes the health and financial security of everyday Americans. 
+          While wasteful spending scandals highlight mismanagement in other areas, ACA is designed to deliver real, tangible 
+          benefits directly to you.</p>
 
           <p><strong>How ACA Helps:</strong><br/>
-          • <em>Affordable Premiums:</em> Expanded subsidies mean millions of Americans can access quality health insurance 
-          without financial strain.<br/>
-          • <em>Comprehensive Benefits:</em> From preventive care and routine checkups to emergency services, ACA plans 
-          ensure you're covered when you need it most.<br/>
-          • <em>A Commitment to the People:</em> Unlike policies swayed by political interests, ACA remains steadfast in 
-          its mission to safeguard your health and well-being.</p>
+          • <em>Affordable Premiums:</em> Expanded subsidies ensure that millions of Americans can secure quality health 
+          insurance without incurring crippling costs.<br/>
+          • <em>Comprehensive Benefits:</em> ACA plans cover everything from preventive care and routine checkups to emergency 
+          services, safeguarding you against unexpected medical expenses.<br/>
+          • <em>A Commitment to the People:</em> Unlike policies swayed by inefficient spending, ACA is steadfast in its 
+          mission to provide accessible, reliable healthcare for every American.</p>
 
-          <p><strong>Your Next Step:</strong> When government actions undermine essential services, it's crucial to secure 
-          a reliable safety net for yourself and your family. While FEMA funds may be mismanaged, your right to quality, 
-          affordable health coverage should never be compromised.</p>
+          <p><strong>Your Next Step:</strong> In a climate where government waste can undermine even the simplest necessities, 
+          it's more important than ever to secure a safety net that truly works for you. While overcharged soap dispensers 
+          highlight the pitfalls of mismanaged funds, your right to quality, affordable health coverage remains intact through 
+          the Affordable Care Act.</p>
         `}
       />
       <CTA />
