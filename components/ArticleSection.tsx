@@ -6,13 +6,21 @@ interface ArticleSectionProps {
   content: string
   imageSrc?: string
   imageAlt?: string
+  useRegularImg?: boolean
 }
 
-export default function ArticleSection({ number, title, content, imageSrc, imageAlt }: ArticleSectionProps) {
+export default function ArticleSection({ number, title, content, imageSrc, imageAlt, useRegularImg = false }: ArticleSectionProps) {
   return (
     <section className={number % 2 === 0 ? "section-white" : "section-light"}>
       <div className="content-container">
-        {imageSrc && (
+        {imageSrc && useRegularImg ? (
+          <img
+            src={imageSrc}
+            alt={imageAlt || ""}
+            className="section-image"
+            style={{ maxWidth: '100%', height: 'auto' }}
+          />
+        ) : imageSrc ? (
           <Image
             src={imageSrc || "/placeholder.svg"}
             alt={imageAlt || ""}
@@ -20,7 +28,7 @@ export default function ArticleSection({ number, title, content, imageSrc, image
             width={800}
             height={450}
           />
-        )}
+        ) : null}
         <article>
           <h2>
             {number}. {title}

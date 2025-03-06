@@ -6,9 +6,9 @@ export default function Hero() {
         <div className="tag-right trending-glow">Trending</div>
       </div>
       <div className="hero-content">
-        <h1>Government Greed or Grave Mistake?</h1>
+        <h1>Federal Government's Handling of Migrant Funding</h1>
         <p className="hero-subtitle">
-          How DOGE's Funding Cut Endangers 9/11 Heroes—&amp; What to Do to Protect Your Health
+          How Mismanaged FEMA Funds for NYC Migrant Housing Reveal a Betrayal of American Priorities
         </p>
       </div>
     </section>

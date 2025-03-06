@@ -28,18 +28,16 @@ export default function CTA() {
   return (
     <section className="section-revamped-cta">
       <div className="cta-revamped-container">
-        <h2 className="cta-headline">🚨 THE GOV IS A MESS—HERE'S HOW YOU CAN STILL GET HELP 🚨</h2>
+        <h2 className="cta-headline">🚨 WHEN THE GOVERNMENT FAILS, YOU CAN STILL GET PROTECTED 🚨</h2>
         <div className="cta-dashed-line"></div>
         <p className="cta-description">
-          Most Americans don't realize: The <em>Affordable Care Act (ACA) </em>
-          offers <strong>up to $6,400 in Health Insurance Tax Credits</strong>—and you could be
-          <strong> eligible right now</strong>!
+          <strong>Quick Tip:</strong> Even if the government is mishandling disaster relief funds, they aren't cutting your access to dependable healthcare under the <em>Affordable Care Act (ACA)</em>.
         </p>
         <p className="cta-description">
           The problem isn't a lack of funding—it's that
-          <strong> too many people don't know about these benefits.</strong> This
-          <em>fully-funded, government-backed program</em> is designed to lower your monthly living expenses by covering
-          health insurance costs—and it even gets better.
+          <strong> government priorities are often misaligned with American needs.</strong> The
+          <em> Affordable Care Act</em> is designed to lower your monthly living expenses by covering
+          health insurance costs—regardless of how other government funds are being mismanaged.
         </p>
         <Image
           src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imagecard-Fl1qRxfpAIiWnJz3fLJHy1N7iABO2j.png"
@@ -50,14 +48,14 @@ export default function CTA() {
         />
         <ul className="cta-bullets">
           <li>
-            ✅ Up to <strong>$6,400 in Health Insurance Tax Credits</strong>—straight from the state!
+            ✅ Up to <strong>$6,400 in Health Insurance Tax Credits</strong>—one government program that actually works for you!
           </li>
           <li>✅ $500 Rewards Card from your carrier to help with gas, groceries, and utilities!</li>
-          <li>✅ Lower monthly expenses, better healthcare coverage, and more money in your pocket!</li>
+          <li>✅ Protection for you and your family when other government safety nets are failing!</li>
         </ul>
         <p className="cta-description">
           That's why we found this <strong>[EXCLUSIVE OFFER]</strong>—a legitimate, fully-backed health plan that helps
-          you save big, reduce stress, and put money back where it belongs: in <strong>YOUR</strong> wallet.
+          you save big, reduce stress, and ensure you're protected even when government priorities shift.
         </p>
         <p className="cta-description">💰 Find out if you qualify and start saving on health insurance today!</p>
         <div className="cta-button-container">
@@ -66,7 +64,7 @@ export default function CTA() {
             className="cta-big-button"
             style={{ backgroundColor: '#bd1313', padding: '0.8rem 1.6rem', borderRadius: '40px', color: 'white', fontWeight: 'bold', cursor: 'pointer' }}
           >
-            Claim Now
+            Check ACA Eligibility Now
           </button>
         </div>
       </div>
